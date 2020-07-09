@@ -1,2 +1,2 @@
-# Tabuada-em-JS
+# Tabuada em JS
 Tabuada usando o JavaScript
